@@ -17,7 +17,20 @@ THE DIFFERENT REQUEST MAPPINGS
 
 BUILD INSTRUCTIONS
 
-Clone the Github repository at : 
+Step 1: Clone the Github repository at : https://github.com/Temyagboola/Musala---Soft
+
+Step 2: Navigate into the dronator folder.
+
+Step 3: Load project into desired IDE, preferably IntelliJ.
+
+Step 4: With Java 17 installed, allow Maven to handle resolution of dependencies.
+
+Step 5: Navigate to "Dronator Application" class file.
+
+Step 6: Click Run to run the application.
+
+Step 7: Using a tool like Postman, test required endpoints listed in the Controller files.
+
 
 
 
